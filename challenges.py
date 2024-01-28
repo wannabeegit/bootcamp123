@@ -10,7 +10,9 @@
 #
 # def perfect_nums(n):
 #     divs = all_divisors(n)
-#     if sum(divs) == n:
+#     if sum(divs) == n:git remote add origin https://github.com/wannabeegit/bootcamp123.git
+# git branch -M main
+# git push -u origin main
 #         return True
 #     else:
 #         return False
